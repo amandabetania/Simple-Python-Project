@@ -23,6 +23,8 @@ Each project is intentionally kept simple and educational, allowing me to contin
 | 1️⃣ | Calculator | A simple calculator program that performs basic arithmetic operations using Python |
 | 2️⃣ | Snake Game | A basic Snake Game implemented in Python to practice game logic, loops, and user interaction |
 | 3️⃣ | Weather App (Tkinter + API) | A GUI-based weather checking application that fetches real-time weather data using a public Weather API |
+| 4️⃣ | Space War Game | A simple arcade-style space shooting game built in Python featuring player movement, enemy spawning, shooting mechanics, collision detection, and score tracking |
+
 
 > 📌 Each project is stored for clarity and easier maintenance.
 
